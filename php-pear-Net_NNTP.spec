@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.4.0
-Release:	8
+Release:	9
 Summary:	Communicate with an NNTP server
 License:	PHP License
 Group:		Development/PHP
